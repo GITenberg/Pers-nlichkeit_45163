@@ -1,0 +1,41 @@
+_repo: Pers-nlichkeit_45163
+_version: 0.1.0
+alternative_title: Personality. German
+contributor:
+  translator:
+    agent_name: Meyer-Franck, Helene
+    alias: Meyer, Helene Franck
+    birthdate: 1873
+    gutenberg_agent_id: '36034'
+    url: http://www.gutenberg.org/2009/agents/36034
+covers:
+- cover_type: archival
+  image_path: 45163-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2014-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45163'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Self (Philosophy)'
+- !lcsh 'Philosophy'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcsh 'Personality'
+- !lcsh 'Philosophy, Indic'
+tableOfContents: Was ist Kunst? -- Die welt der persönlichkeit -- Die wiedergeburt
+  -- Meine schule -- Religiöse betrachtung -- Die frau.
+title: Persönlichkeit
+url: http://www.gutenberg.org/ebooks/45163
